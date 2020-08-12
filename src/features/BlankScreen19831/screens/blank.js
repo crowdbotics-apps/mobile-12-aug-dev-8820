@@ -226,7 +226,7 @@ export class _Blank extends React.Component {
           fontSize: 12,
           color: "#000000",
           backgroundColor: "#ffffff",
-          fontFamily: "Roboto-Regular",
+          fontFamily: "Roboto-BoldItalic",
           borderColor: "#000000",
           borderStyle: "solid",
           borderWidth: 0,
