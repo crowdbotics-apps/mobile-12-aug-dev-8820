@@ -112,17 +112,13 @@ export class _Blank extends React.Component {
           paddingRight: 0,
           paddingTop: 0,
           paddingBottom: 0,
-          overflow: "visible",
+          overflow: "hidden",
           textAlign: "left",
           verticalAlign: "baseline",
           borderColor: "#000000",
           borderStyle: "solid",
-          borderWidth: 0,
-          borderLeftWidth: 0,
-          borderRightWidth: 0,
-          borderTopWidth: 0,
-          borderBottomWidth: 0,
-          borderRadius: 0
+          borderWidth: 10,
+          borderRadius: 40
         }}
       />
     </View>
